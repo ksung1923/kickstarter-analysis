@@ -37,14 +37,14 @@ I had minimal challenges while completing the analysis. However, possible diffic
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-![image_name](path/to/image_name.png)
+![image_name]()
 There are two conclusions we can draw about the outcomes of a crowd funding campaign based on launch date. 
 1.	We see a higher number of successful campaigns with a launch date the summer. A launch date in May has the largest number of successful campaigns. The number of successful campaigns declines at a constant rate till September with a slight increase in October but then another decline in successful campaigns until the end of the year. 
 2.	Failed campaigns are relatively constant at around 40-50 failed campaigns throughout the year. There are fewer failed campaigns with launch dates in the beginning of the year, September, November, and December but that might be because there are fewer campaigns overall around those times. 
 3.	Canceled campaigns is constant throughout the year with less than ten.
 
 - What can you conclude about the Outcomes based on Goals?
-![image_name](path/to/image_name.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 A main conclusion about outcomes based on funding goal amounts is that percentage of successful and failed campaigns are completely inverse. When the funding goal amount is less than $50,000, there is a much higher percentage of successful campaigns then failed campaigns. However, when the funding goal amount is between $250,000 and $300,000, there is a higher failed percentage than successful percentage. According to the chart, the funding goal amount ranges were we see the highest percentage of successful campaigns are between $150,000 or less and $350,000 to $450,000. 
 
 - What are some limitations of this dataset?
