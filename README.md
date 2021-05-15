@@ -20,7 +20,7 @@ Methodology of how I analyzed outcomes based on launch date:
 5.	I sorted the campaign outcomes in descending order so “successful is first. 
 6.	Lastly, I created a line chart to visualize the relationship between outcomes and launch month. 
 
-Please see the tab “Theater Outcomes by Launch Date” in the following spreadsheet for the pivot table created. [Kickstarter_Challenge.xlsx](path/to/filename.xlxs).
+Please see the tab “Theater Outcomes by Launch Date” in the following spreadsheet for the pivot table created. [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx).
 
 ### Analysis of Outcomes Based on Goals
 Methodology of how I analyzed outcomes based on funding goal amounts: 
@@ -30,7 +30,7 @@ Methodology of how I analyzed outcomes based on funding goal amounts:
 4.	I was then able to calculation the percentage of successful, failed, and canceled projects for each row. 
 5.	Lastly, I created a line chart to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. 
 
-Please see the tab “Outcomes Based on Goals” in the following spreadsheet for the goals analysis. [Kickstarter_Challenge.xlsx](path/to/filename.xlxs).
+Please see the tab “Outcomes Based on Goals” in the following spreadsheet for the goals analysis. [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx).
 
 ### Challenges and Difficulties Encountered
 I had minimal challenges while completing the analysis. However, possible difficulties that could be encountered is created the pivot table for the analysis on launch date and placing the right columns in the correct areas. In order to get only months, I had to make sure the only column placed in axis was the “Date Created Conversion”. I also had to experiments with changing the line and markers colors on the graph. The best way I overcame these challenged was just testing things out until I understood what each field in the pivot table represented. A possible challenged for the analysis on goals could be creating the correct code for the COUNTIFS() and making sure the equations were corresponding to the goal ranges. A solution to this challenge might be to manually check one goal range to better understand what the code is doing and to quality check that code is doing what you want it to. 
