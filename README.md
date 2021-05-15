@@ -48,9 +48,11 @@ There are three conclusions we can draw about the outcomes of a crowd funding ca
 A main conclusion about outcomes based on funding goal amounts is that percentage of successful and failed campaigns are completely inverse. When the funding goal amount is less than $50,000, there is a much higher percentage of successful campaigns then failed campaigns. However, when the funding goal amount is between $250,000 and $300,000, there is a higher failed percentage than successful percentage. According to the chart, the funding goal amount ranges were we see the highest percentage of successful campaigns are between $150,000 or less and $350,000 to $450,000. 
 
 - What are some limitations of this dataset?
+
 A limitation to the dataset could be if the data provided came from surveys, that the information may not be completely accurate or updated. Also, if the data collected is from different sources based on country, the quality and format might differ. Lastly the data could be incomplete.  
 
 - What are some other possible tables and/or graphs that we could create?
+
 Other possible tables we could create to help us gain a better understanding of what factors impact a campaign are: 
 1.	Looking at outcomes based on backers count and test if a higher number of backers impact the outcome of a crowd funding campaign. 
 2.	Analyzing the time length of a campaign and see if longer campaigns have a higher successful rate.  
